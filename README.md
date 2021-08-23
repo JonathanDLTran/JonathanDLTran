@@ -1,6 +1,9 @@
 ### Hi there 👋, I'm Jonathan!
 
-<!--
+🔭 I’m currently working on a toy compiler that targets RISC-V. 
+🌱 I’m currently learning the basics of formal verification by working through Volume I of Software Foundations.
+
+<!-- 
 **JonathanDLTran/JonathanDLTran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ -->
