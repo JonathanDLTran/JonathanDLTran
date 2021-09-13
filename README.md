@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Jonathan!
 
  - 🔭 I’m currently working on a toy compiler that targets RISC-V. 
+ - 🌱 I’m trying to gain a deeper understanding about continuation passing style, while also trying to convert the core of the scheme language to CPS. Hopefully I can also implement call/cc.
  - 🌱 I’m currently learning the basics of formal verification by working through Volume I of Software Foundations.
 
 <!-- 
