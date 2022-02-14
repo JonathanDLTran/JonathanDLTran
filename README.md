@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Jonathan!
 
-I'm interested in programming languages, particularly how to make it easier for people to program, and to program correctly. I enjoy work related to type systems, static analysis techniques, and compiler optimizations. 
+I'm interested in programming languages, particularly in techniques, methodsm and tools to make it easier for people to program, and to program correctly. I enjoy work related to type systems, static analysis techniques, and compiler optimizations. 
 
  - 🌱 I’m currently reading through and doing the exercises on lattices in Chapter 4 of Static Program Analysis. 
  - 🌱 I’m currently learning the basics of formal verification by working through Volume I of Software Foundations.
