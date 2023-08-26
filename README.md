@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Jonathan!
 
+<!-- 
 I'm interested in programming languages, particularly regarding techniques, methods, and tools to make it easier for people to program, and to program correctly. I enjoy work related to type systems, static analysis techniques, and compiler optimizations. I am currently studying auto-vectorization techniques, and am curious about search techniques to improve vectorization performance.
 
-<!-- 
 **JonathanDLTran/JonathanDLTran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
