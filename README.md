@@ -3,6 +3,10 @@
 I am a recent graduate of Cornell University, interested in programming languages, particularly type systems and compilers. I am very curious to learn more about new ideas from compilers, such as search-based compilation techniques. 
 
 <!-- 
+I would like to learn more about operating systems, build a Chocopy compiler, and create a unique flashcard system using Django.
+ -->
+
+<!-- 
 I'm interested in programming languages, particularly regarding techniques, methods, and tools to make it easier for people to program, and to program correctly. I enjoy work related to type systems, static analysis techniques, and compiler optimizations. I am currently studying auto-vectorization techniques, and am curious about search techniques to improve vectorization performance.
 
 **JonathanDLTran/JonathanDLTran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
