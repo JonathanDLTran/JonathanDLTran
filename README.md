@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Jonathan!
 
-I am a recent graduate of Cornell University, interested in programming languages, particularly type systems and compilers. I am very curious to learn more about new ideas from compilers, such as search-based compilation techniques. 
+I am interested in programming languages, particularly type systems and compilers. I am very curious to learn more about new ideas from compilers, such as search-based compilation techniques. 
 
 <!-- 
 I would like to learn more about operating systems, build a Chocopy compiler, and create a unique flashcard system using Django.
